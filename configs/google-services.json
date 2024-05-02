@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "252205036015",
+    "project_id": "publictvapp",
+    "storage_bucket": "publictvapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252205036015:android:af251d2e0321a8f753461a",
+        "android_client_info": {
+          "package_name": "com.phonegap.publictv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252205036015-i5aq0m72gtrahk53sn1u4psb32pq7u47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phonegap.publictv",
+            "certificate_hash": "7754c823ba686c01e3f219ee6e8f491083149ad6"
+          }
+        },
+        {
+          "client_id": "252205036015-ivoorq1h39j1oeha7oloiaqrfdg8aj9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0PfYoRFoU7MvRig4aaIYL35dmDAP_MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252205036015-ivoorq1h39j1oeha7oloiaqrfdg8aj9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252205036015-38kjeu00b6vf4mupe82h9048uc5fc0pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phonegap.publictv"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252205036015:android:f9a8c342cea98a9553461a",
+        "android_client_info": {
+          "package_name": "com.publictv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252205036015-s7dlf6sthii8ar62bn8i1tbsfj9qqc44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.publictv.app",
+            "certificate_hash": "7754c823ba686c01e3f219ee6e8f491083149ad6"
+          }
+        },
+        {
+          "client_id": "252205036015-ivoorq1h39j1oeha7oloiaqrfdg8aj9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0PfYoRFoU7MvRig4aaIYL35dmDAP_MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252205036015-ivoorq1h39j1oeha7oloiaqrfdg8aj9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252205036015-38kjeu00b6vf4mupe82h9048uc5fc0pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phonegap.publictv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

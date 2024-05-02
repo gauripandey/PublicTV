@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>252205036015-lfn9mj2r7ag2nrbmgntjca91tbtnjhbs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.252205036015-lfn9mj2r7ag2nrbmgntjca91tbtnjhbs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>252205036015-i5aq0m72gtrahk53sn1u4psb32pq7u47.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA01KTiA7kQZ7NN8nZkhj6JkdyFw1Piwow</string>
+	<key>GCM_SENDER_ID</key>
+	<string>252205036015</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.writemenmedia.publictv</string>
+	<key>PROJECT_ID</key>
+	<string>publictvapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>publictvapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:252205036015:ios:42c7d5cabdf8c3f753461a</string>
+</dict>
+</plist>

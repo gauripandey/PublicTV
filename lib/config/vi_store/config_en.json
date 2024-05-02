@@ -1,0 +1,632 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://publictv.in/wp-content/uploads/2023/03/cropped-fH1g6WnU-1-1.webp",
+      "showLogo": true,
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "bars"
+      },
+      "showMenu": true,
+      "showSearch": true,
+      "showNotification": true,
+      "showCart": false
+    },
+    {
+      "line": false,
+      "type": "icon",
+      "showShortDescription": true,
+      "marginRight": 10,
+      "imageSpacing": 0,
+      "spacing": 0,
+      "gradientStyle": false,
+      "radius": 4,
+      "labelFontSize": 13,
+      "separateWidth": 7,
+      "noBackground": true,
+      "marginX": 0,
+      "marginLeft": 10,
+      "marginY": 0,
+      "layout": "category",
+      "paddingX": 0,
+      "imageBorderStyle": "solid",
+      "imageBorderWidth": 0,
+      "size": 0.2,
+      "hideTitle": false,
+      "marginBottom": 0,
+      "horizontalItem": true,
+      "wrap": false,
+      "items": [
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "193815",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "2",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "196659",
+          "title": "Election 2024",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "onSale": false,
+          "category": "58",
+          "title": "Districts",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "71",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "2085",
+          "title": "World",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "269",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "9767",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "196658",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "123",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "2823",
+          "isFeatured": false,
+          "productType": false
+        },
+        {
+          "backgroundColor": "ffffffff",
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "213812",
+          "isFeatured": false,
+          "productType": false
+        }
+      ],
+      "marginTop": 14.000000000000002,
+      "paddingY": 0
+    },
+    {
+      "layout": "spacer",
+      "height": 15.0,
+      "backgroundColor": null,
+      "useLightColor": false,
+      "pos": 300
+    },
+    {
+      "type": "url",
+      "url": "https://publictv.in/amp.html",
+      "data": "<iframe width=\"700\" height=\"315\" src=\"https://publictv.in/amp.html\" alloworientation=\"true\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+      "height": 250,
+      "spacing": {
+        "margin": null,
+        "padding": null
+      },
+      "script": "",
+      "navigator": null,
+      "layout": "webEmbed",
+      "pos": 200
+    },
+    {
+      "layout": "card",
+      "durationAutoSliding": 50,
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Top Stories",
+      "enableAutoSliding": true,
+      "category": 166153
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Latest News",
+      "enableAutoSliding": false,
+      "category": 2
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "limit": 20,
+      "enableAutoSliding": false,
+      "name": "District News",
+      "category": 58,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Cinema News",
+      "enableAutoSliding": false,
+      "category": 269,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "National News",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 71
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "name": "World News",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 2085,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Crime News",
+      "enableAutoSliding": false,
+      "category": 9767
+    },
+    {
+      "layout": "sliderList",
+      "durationAutoSliding": 15,
+      "imageBorder": 6,
+      "name": "Automobile",
+      "limit": 20,
+      "enableAutoSliding": true,
+      "category": 33302,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "card",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Technology News",
+      "enableAutoSliding": false,
+      "category": 531
+    },
+    {
+      "layout": "largeCardHorizontalListItems",
+      "imageWidth": 200,
+      "imageBorder": 20,
+      "name": "Food News",
+      "enableAutoSliding": true,
+      "category": 845
+    },
+    {
+      "layout": "twoColumn",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Big Bulletin",
+      "enableAutoSliding": false,
+      "category": 9986
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Sports News",
+      "enableAutoSliding": false,
+      "category": 123,
+      "type": "imageOnTheLeft"
+    }
+
+  ],
+  "Setting": {
+    "TabBarConfig": null,
+    "FontFamily": "Almarai",
+    "FontHeader": "Alatsi",
+    "MainColor": null,
+    "ProductListLayout": "",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "visible": true,
+      "fullscreen": false,
+      "pos": 100,
+      "defaultTab": true,
+      "icon": "house_fill",
+      "label": "Home",
+      "key": "kKGkLDcWuH"
+    },
+    {
+      "key": "oZdPmuLhIJ",
+      "layout": "category",
+      "icon": "collections_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": "Category",
+      "pos": 200,
+      "visible": true,
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": false,
+      "categoryLayout": "subCategories",
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "categories": [
+        "193815",
+        "2",
+        "196659",
+        "58",
+        "71",
+        "2085",
+        "269",
+        "9767",
+        "196658",
+        "123",
+        "531",
+        "845",
+        "143045",
+        "159694",
+        "33302",
+        "1074",
+        "336",
+        "152",
+        "255",
+        "119",
+        "56",
+        "9986",
+        "3082",
+        "1358",
+        "460",
+        "506",
+        "2395",
+        "121",
+        "34",
+        "1193",
+        "374",
+        "79",
+        "18898",
+        "159557",
+        "196103",
+        "2823",
+        "614",
+        "96",
+        "747",
+        "18897",
+        "659",
+        "60",
+        "1259",
+        "315",
+        "204",
+        "213812",
+        "1093",
+        "144801",
+        "239",
+        "159559",
+        "159565",
+        "196660",
+        "287",
+        "1534",
+        "216705",
+        "271",
+        "113",
+        "530",
+        "4439",
+        "159567",
+        "8327",
+        "540",
+        "360",
+        "1024",
+        "849",
+        "439",
+        "300"
+      ]
+    },
+    {
+      "key": "sVSNDLpjCk",
+      "layout": "search",
+      "icon": "search",
+      "fontFamily": "CupertinoIcons",
+      "label": "Search",
+      "pos": 256,
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": false
+    },
+    {
+      "key": "sCqHvzjAuB",
+      "layout": "dynamic",
+      "icon": "tv_circle_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": "Live TV",
+      "pos": 207,
+      "visible": true,
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": true,
+      "configs": {
+        "HorizonLayout": [
+          {
+            "isSafeArea": true,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "borderInput": false,
+            "title": "Live TV",
+            "type": "static",
+            "alignment": "centerLeft",
+            "fontWeight": 600.0,
+            "fontSize": 25.0,
+            "textOpacity": 1.0,
+            "marginLeft": 10,
+            "marginRight": 0.0,
+            "marginBottom": 5.0,
+            "marginTop": 15.0,
+            "paddingLeft": 5.0,
+            "paddingRight": 15.0,
+            "paddingTop": 0.0,
+            "paddingBottom": 0.0,
+            "height": 44.0,
+            "rotate": [],
+            "minWidth": 0.0,
+            "backgroundGradientColor": [],
+            "font": "Roboto",
+            "layout": "header_text",
+            "pos": 100
+          },
+          {
+            "type": "url",
+            "data": "<iframe width=\"560\" height=\"315\" src=\"https://publictv.in/amp.html\" alloworientation=\"true\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+            "height": 250,
+            "spacing": {
+              "margin": null,
+              "padding": null
+            },
+            "script": "",
+            "navigator": null,
+            "layout": "webEmbed",
+            "pos": 200
+          },
+          {
+            "layout": "spacer",
+            "height": 10.0,
+            "backgroundColor": null,
+            "useLightColor": false,
+            "pos": 300
+          }
+        ],
+        "VerticalLayout": {
+          "showCartIcon": true,
+          "showStockStatus": false,
+          "hideStore": false,
+          "vPadding": 2,
+          "showQuantity": false,
+          "showHeart": false,
+          "hMargin": 6,
+          "vMargin": 0,
+          "key": "fbgMdXlsjE",
+          "showCategory": false,
+          "showCartIconColor": false,
+          "useSort": false,
+          "hPadding": 6,
+          "hidePrice": false,
+          "enableBottomAddToCart": false,
+          "layout": "list",
+          "enableRating": true,
+          "imageRatio": 1.2,
+          "useCircularRadius": true,
+          "isVertical": true,
+          "hideTitle": false,
+          "cardDesign": "card",
+          "showCartButton": false,
+          "name": "Latest News",
+          "cartIconRadius": 12,
+          "shuffle": false
+        }
+      }
+    },
+
+    {
+      "layout": "dynamic",
+      "configs": {
+        "HorizonLayout": [],
+        "VerticalLayout": {
+          "showCartIcon": true,
+          "showStockStatus": false,
+          "hideStore": true,
+          "showCartIconColor": false,
+          "vPadding": 2,
+          "showQuantity": false,
+          "hPadding": 6,
+          "hidePrice": false,
+          "showHeart": false,
+          "hMargin": 6,
+          "enableBottomAddToCart": false,
+          "layout": "card",
+          "enableRating": true,
+          "imageRatio": 0.5,
+          "isVertical": true,
+          "vMargin": 0,
+          "hideTitle": false,
+          "cardDesign": "card",
+          "showCartButton": false,
+          "name": "",
+          "cartIconRadius":0,
+          "shuffle": false,
+          "category": "143045",
+          "key": "hFyZBXuMlx"
+        }
+      },
+      "fontFamily": "MaterialIcons",
+      "fullscreen": false,
+      "pos": 100,
+      "defaultTab": false,
+      "icon": "video_collection",
+      "label": "Videos",
+      "groupLayout": false,
+      "key": "cYgwJXDVSZ"
+    }
+
+  ],
+  "Drawer": {
+    "filter": 1,
+    "logoConfig": {
+      "height": 107,
+      "marginLeft": 3,
+      "marginRight": 0,
+      "marginTop": 12,
+      "marginBottom": 10,
+      "boxFit": "contain",
+      "useMaxWidth": true
+    },
+    "enable": true,
+    "logo": "https://i0.wp.com/publictv.in/wp-content/uploads/2023/04/cropped-fH1g6WnU-1.webp?fit=300%2C193&ssl=1",
+    "subDrawerItem": {
+      "category-GfkweQykaK": {
+        "icon": "news",
+        "category": "2085",
+        "title": "internatinal",
+        "iconFontFamily": "CupertinoIcons"
+      },
+      "web-DTEsvtCrWy": {
+        "enableClose": false,
+        "webViewMode": true,
+        "webUrl": "english.publictv.in",
+        "icon": "news",
+        "enableBackward": true,
+        "title": "Public TV English",
+        "requiredLogin": false,
+        "iconFontFamily": "CupertinoIcons",
+        "script": "",
+        "enableForward": false
+      },
+      "category-LmQmyUOJHe": {
+        "icon": "news",
+        "category": "213812",
+        "title": "",
+        "iconFontFamily": "CupertinoIcons"
+      }
+    },
+    "safeArea": false,
+    "items": [
+      {
+        "type": "home",
+        "show": false
+      },
+      {
+        "type": "categories",
+        "show": false
+      },
+      {
+        "type": "profile",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": false
+      },
+      {
+        "type": "category",
+        "show": false
+      },
+      {
+        "type": "web-DTEsvtCrWy",
+        "show": false
+      },
+      {
+        "type": "category-LmQmyUOJHe",
+        "show": false
+      },
+      {
+        "type": "category-GfkweQykaK",
+        "show": false
+      }
+    ],
+    "key": "VPaVXRUasv"
+  },
+  "AppBar": {},
+  "SplashScreen": {
+    "data": "assets/images/splashscreen.png",
+    "type": "animated"
+  }
+}

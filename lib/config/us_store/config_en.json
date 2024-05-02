@@ -1,0 +1,731 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://publictv.in/wp-content/uploads/2023/03/cropped-fH1g6WnU-1-1.webp",
+      "showLogo": true,
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "bars"
+      },
+      "showMenu": true,
+      "showSearch": true,
+      "showNotification": true,
+      "showCart": false
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "showShortDescription": true,
+      "size": 0.2,
+      "radius": 4.0,
+      "spacing": 0.0,
+      "items": [
+        {
+          "category": "87",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "197",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "33",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "98",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "showDescription": false,
+          "productType": false,
+          "title": "Crime",
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "102",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "123",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "32",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "38",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "43",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "2",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "49",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "7",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "39",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "8",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "5",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "6",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "3",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "4",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "111",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "115",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "9",
+          "backgroundColor": "ffffffff",
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 14.000000000000002,
+      "marginBottom": 10.0,
+      "paddingX": 0.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false,
+      "noBackground": true,
+      "imageBorderWidth": 0.0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0.0,
+      "labelFontSize": 14.0,
+      "horizontalItem": true,
+      "separateWidth": 7.0,
+      "gradientStyle": false
+    },
+    {
+      "layout": "spacer",
+      "height": 15.0,
+      "backgroundColor": null,
+      "useLightColor": false,
+      "pos": 300
+    },
+    {
+      "type": "url",
+      "data": "<iframe width=\"700\" height=\"315\" src=\"https://publictv.in/amp.html\" alloworientation=\"true\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+      "height": 250,
+      "spacing": {
+        "margin": null,
+        "padding": null
+      },
+      "script": "",
+      "navigator": null,
+      "layout": "webEmbed",
+      "pos": 200
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Latest News",
+      "enableAutoSliding": false,
+      "category": 2
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "name": "Bengaluru",
+      "enableAutoSliding": false,
+      "category": 197
+    },
+    {
+      "layout": "card",
+      "image": "",
+      "cardDesign": "simple",
+      "durationAutoSliding": 50,
+      "limit": 20,
+      "enableAutoSliding": true,
+      "isSnapping": false,
+      "name": "Karnataka",
+      "category": 33,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Cinema News",
+      "enableAutoSliding": false,
+      "category": 98,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Politics",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 102
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "name": "Education",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 123,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "States",
+      "enableAutoSliding": false,
+      "category": 32
+    },
+    {
+      "layout": "sliderList",
+      "durationAutoSliding": 15,
+      "imageBorder": 6,
+      "name": "India/National",
+      "limit": 20,
+      "enableAutoSliding": true,
+      "category": 38,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "card",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Business/Corporate",
+      "enableAutoSliding": false,
+      "category": 43
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "name": "Entertainment",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 2,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Cricket",
+      "enableAutoSliding": false,
+      "category": 49
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Sports News",
+      "enableAutoSliding": false,
+      "category": 7,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "card",
+      "durationAutoSliding": 50,
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "World/International",
+      "enableAutoSliding": true,
+      "category": 39
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "limit": 20,
+      "enableAutoSliding": false,
+      "name": "Technology/Mobile/Gaming",
+      "category": 8,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Health/Parenting",
+      "enableAutoSliding": false,
+      "category": 5,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Lifestyle/Relationship",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 6
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "name": "Fashion/Beauty",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 3,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "limit": 20,
+      "name": "Food/Cookery",
+      "enableAutoSliding": false,
+      "category": 4
+    },
+    {
+      "layout": "sliderList",
+      "durationAutoSliding": 15,
+      "imageBorder": 6,
+      "name": "Weather",
+      "limit": 20,
+      "enableAutoSliding": true,
+      "category": 111,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "card",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Wildlife",
+      "enableAutoSliding": false,
+      "category": 115
+    },
+    {
+      "layout": "largeCardHorizontalListItems",
+      "imageWidth": 200,
+      "imageBorder": 20,
+      "name": "Travel",
+      "enableAutoSliding": true,
+      "category": 9
+    }
+
+
+  ],
+  "Setting": {
+    "TabBarConfig": null,
+    "FontFamily": "Almarai",
+    "FontHeader": "Alatsi",
+    "MainColor": null,
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+
+
+  "TabBar": [
+    {
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "visible": true,
+      "fullscreen": false,
+      "pos": 100,
+      "defaultTab": true,
+      "icon": "house_fill",
+      "label": "Home",
+      "key": "kKGkLDcWuH"
+    },
+    {
+      "layout": "category",
+      "icon": "collections_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": "Category",
+      "pos": 200,
+      "visible": true,
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": false,
+      "categoryLayout": "subCategories",
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "categories": [
+        "87",
+        "197",
+        "33",
+        "98",
+        "102",
+        "123",
+        "32",
+        "38",
+        "43",
+        "2",
+        "49",
+        "7",
+        "8",
+        "5",
+        "6",
+        "3",
+        "4",
+        "111",
+        "115",
+        "9",
+        "180",
+        "161",
+        "45",
+        "47",
+        "46",
+        "39",
+        "41",
+        "40",
+        "8054",
+        "42",
+        "44",
+        "294",
+        "189",
+        "175",
+        "184",
+        "102",
+        "185",
+        "36",
+        "35",
+        "34",
+        "37",
+        "210",
+        "6851",
+        "48"
+      ],
+      "key": "oZdPmuLhIJ"
+    },
+    {
+      "key": "sCqHvzjAuB",
+      "layout": "dynamic",
+      "icon": "tv_circle_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": "Live TV",
+      "pos": 207,
+      "visible": true,
+      "defaultTab": false,
+      "fullscreen": false,
+      "showOriginalColor": true,
+      "configs": {
+        "HorizonLayout": [
+          {
+            "isSafeArea": true,
+            "showSearch": false,
+            "usePrimaryColor": true,
+            "enableBackground": false,
+            "borderInput": false,
+            "title": "Live TV",
+            "type": "static",
+            "alignment": "centerLeft",
+            "fontWeight": 600.0,
+            "fontSize": 25.0,
+            "textOpacity": 1.0,
+            "marginLeft": 10,
+            "marginRight": 0.0,
+            "marginBottom": 5.0,
+            "marginTop": 15.0,
+            "paddingLeft": 5.0,
+            "paddingRight": 15.0,
+            "paddingTop": 0.0,
+            "paddingBottom": 0.0,
+            "height": 44.0,
+            "rotate": [],
+            "minWidth": 0.0,
+            "backgroundGradientColor": [],
+            "font": "Roboto",
+            "layout": "header_text",
+            "pos": 100
+          },
+          {
+            "type": "url",
+            "data": "<iframe width=\"560\" height=\"315\" src=\"https://publictv.in/amp.html\" alloworientation=\"true\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+            "height": 250,
+            "spacing": {
+              "margin": null,
+              "padding": null
+            },
+            "script": "",
+            "navigator": null,
+            "layout": "webEmbed",
+            "pos": 200
+          },
+          {
+            "layout": "spacer",
+            "height": 10.0,
+            "backgroundColor": null,
+            "useLightColor": false,
+            "pos": 300
+          }
+        ],
+        "VerticalLayout": {
+          "showCartIcon": true,
+          "showStockStatus": false,
+          "hideStore": false,
+          "vPadding": 2,
+          "showQuantity": false,
+          "showHeart": false,
+          "hMargin": 6,
+          "vMargin": 0,
+          "key": "fbgMdXlsjE",
+          "showCategory": false,
+          "showCartIconColor": false,
+          "useSort": false,
+          "hPadding": 6,
+          "hidePrice": false,
+          "enableBottomAddToCart": false,
+          "layout": "list",
+          "enableRating": true,
+          "imageRatio": 1.2,
+          "useCircularRadius": true,
+          "isVertical": true,
+          "hideTitle": false,
+          "cardDesign": "card",
+          "showCartButton": false,
+          "name": "Latest News",
+          "cartIconRadius": 12,
+          "shuffle": false
+        }
+      }
+    }
+  ],
+
+  "Drawer": {
+    "filter": 0,
+    "logoConfig": {
+      "height": 107,
+      "marginLeft": 3,
+      "marginRight": 0,
+      "marginTop": 12,
+      "marginBottom": 10,
+      "boxFit": "contain",
+      "useMaxWidth": true
+    },
+    "enable": true,
+    "logo": "https://i0.wp.com/publictv.in/wp-content/uploads/2023/04/cropped-fH1g6WnU-1.webp?fit=300%2C193&ssl=1",
+    "subDrawerItem": {
+      "category-GfkweQykaK": {
+        "icon": "news",
+        "category": "2085",
+        "title": "internatinal",
+        "iconFontFamily": "CupertinoIcons"
+      },
+      "web-DTEsvtCrWy": {
+        "enableClose": false,
+        "webViewMode": true,
+        "webUrl": "english.publictv.in",
+        "icon": "news",
+        "enableBackward": true,
+        "title": "Public TV English",
+        "requiredLogin": false,
+        "iconFontFamily": "CupertinoIcons",
+        "script": "",
+        "enableForward": false
+      },
+      "category-LmQmyUOJHe": {
+        "icon": "news",
+        "category": "213812",
+        "title": "",
+        "iconFontFamily": "CupertinoIcons"
+      }
+    },
+    "safeArea": false,
+    "items": [
+      {
+        "type": "home",
+        "show": false
+      },
+      {
+        "type": "categories",
+        "show": false
+      },
+      {
+        "type": "profile",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": false
+      },
+      {
+        "type": "category",
+        "show": false
+      },
+      {
+        "type": "web-DTEsvtCrWy",
+        "show": false
+      },
+      {
+        "type": "category-LmQmyUOJHe",
+        "show": false
+      },
+      {
+        "type": "category-GfkweQykaK",
+        "show": false
+      }
+    ],
+    "key": "VPaVXRUasv"
+  },
+  "AppBar": {},
+  "SplashScreen": {
+    "data": "assets/images/splashscreen.png",
+    "type": "animated"
+  }
+}

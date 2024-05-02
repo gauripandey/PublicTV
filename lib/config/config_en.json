@@ -1,0 +1,734 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://publictv.in/wp-content/uploads/2023/03/cropped-fH1g6WnU-1-1.webp",
+      "showLogo": true,
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "bars"
+      },
+      "showMenu": true,
+      "showSearch": true,
+      "showNotification": true,
+      "showCart": false
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "showShortDescription": true,
+      "size": 1.0,
+      "radius": 50.0,
+      "spacing": 12.0,
+      "items": [
+        {
+          "category": "58",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "269",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "123",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "category": "2085",
+          "colors": [
+            "#333333"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "71",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "9767",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "196658",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "531",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "845",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "143045",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        },
+        {
+          "showDescription": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "onSale": false,
+          "category": "146573",
+          "isFeatured": false,
+          "colors": [
+            "#333333"
+          ],
+          "productType": false
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "paddingX": 0.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false,
+      "noBackground": false,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0.0,
+      "labelFontSize": 14.0,
+      "horizontalItem": false,
+      "separateWidth": 24.0,
+      "gradientStyle": false
+    },
+    {
+      "type": "iframe",
+      "name": "Live TV",
+      "url": "https://publictv.in/amp.html",
+      "data": "<iframe width=\"560\" height=\"315\" src=\"https://publictv.in/amp.html\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+      "height": 250.0,
+      "spacing": {
+        "margin": null,
+        "padding": null
+      },
+      "layout": "webEmbed"
+    },
+    {
+      "layout": "card",
+      "durationAutoSliding": 20,
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Top Stories",
+      "enableAutoSliding": true,
+      "category": 166153
+    },
+    {
+      "layout": "twoColumn",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Latest News",
+      "enableAutoSliding": true,
+      "category": 2
+    },
+    {
+      "layout": "threeColumn",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "District News",
+      "category": 58
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Cinema News",
+      "enableAutoSliding": false,
+      "category": 269,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "sliderItem",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "National News",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 71
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 20,
+      "name": "International News",
+      "limit": 20,
+      "enableAutoSliding": false,
+      "category": 2085,
+      "type": "imageOnTheRight"
+    },
+    {
+      "layout": "twoColumn",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Crime News",
+      "enableAutoSliding": false,
+      "category": 9767
+    },
+    {
+      "layout": "sliderList",
+      "durationAutoSliding": 15,
+      "imageBorder": 6,
+      "name": "Automobile",
+      "limit": 20,
+      "enableAutoSliding": true,
+      "category": 33302,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "layout": "card",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Technology News",
+      "enableAutoSliding": false,
+      "category": 531
+    },
+    {
+      "layout": "largeCardHorizontalListItems",
+      "imageWidth": 200,
+      "imageBorder": 20,
+      "name": "Food News",
+      "enableAutoSliding": true,
+      "category": 845
+    },
+    {
+      "layout": "twoColumn",
+      "image": "",
+      "cardDesign": "simple",
+      "isSnapping": false,
+      "name": "Big Bulletin",
+      "enableAutoSliding": false,
+      "category": 9986
+    },
+    {
+      "layout": "sliderList",
+      "imageBorder": 6,
+      "name": "Sports News",
+      "enableAutoSliding": false,
+      "category": 123,
+      "type": "imageOnTheLeft"
+    },
+    {
+      "hideCaption": false,
+      "usePath": false,
+      "itemHeight": 200,
+      "viewLayout": "media",
+      "itemSpacing": 10,
+      "marginLeft": 15,
+      "marginRight": 15,
+      "layout": "instagramStory",
+      "path": "publictv/",
+      "itemBorderRadius": 10,
+      "hideAvatar": false,
+      "limit": 10,
+      "itemWidth": 100,
+      "marginBottom": 10,
+      "time": 10,
+      "items": [
+        {
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e6621816c3ce06125e2e0e/previews/61e6621916c3ce06125e2e47/download/271695694_119019583971187_7369220547605639986_n.jpg",
+          "code": "CYn2wMAvSKp",
+          "id": "[#76a3a]",
+          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
+          "mediaCaption": "한국화 미인도 시리즈 81\\n연두색 치마를 입고\\n앉아 있는 여인\\nKorean painting, a beauty 81st\\nA beauty who wears Korean\\ntraditional clothes called Hanbok.\\n#한복그림 #한복 #미인도 #한국화\\n#한국전통의상 #한국화_느낌\\n#한복입은여인 #한국전통옷_한복\\n#illustration #Korean_painting\\n#hanbok #Korean_hanbok #beauty\\n#Korean_clothes #Korean_beauty\\n#hanbok_Korean \\n#Korean_traditional_culture\\n#Korean_traditional_culture_hanbok\\n#Korean_traditional_wedding_clothes"
+        },
+        {
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e66332420be232dbfaded9/previews/61e66332420be232dbfadeff/download/271673814_2103125789840230_3532365578535450401_n.jpg",
+          "code": "CYlvDPUPuBf",
+          "id": "[#3ed37]",
+          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
+          "mediaCaption": "주먹왕 랄프 테피타 한복\\n#wreckitralph #taffyta #hanbok #korean_clothes #drawing #digitalart #주먹왕랄프 #테피타 #그림계정맞팔 #소통환영 #modern_hanbok"
+        },
+        {
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e66355d1ce53015629eb5b/previews/61e66356d1ce53015629eb62/download/271415721_638692097578634_6898435772496442223_n.jpg",
+          "code": "CYeTwnvMDbt",
+          "id": "[#d03db]",
+          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
+          "mediaCaption": "#korean_clothes"
+        },
+        {
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e663a3218d368f46731343/download/271447644_3064065090538504_6797160392235807279_n.jpg",
+          "code": "CYVu_FLvet1",
+          "id": "[#25802]",
+          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
+          "mediaCaption": "한국화 미인도 시리즈 80\\n산호 뒤꽂이를 한 여인\\nKorean painting, a beauty 80th\\nA beauty who wears Korean\\ntraditional clothes called Hanbok.\\n#한복그림 #한복 #미인도 #한국화\\n#한국전통의상 #한국화_느낌\\n#한복입은여인 #한국전통옷_한복\\n#illustration #Korean_painting\\n#hanbok #Korean_hanbok #beauty\\n#Korean_clothes #Korean_beauty\\n#hanbok_Korean \\n#Korean_traditional_culture\\n#Korean_traditional_culture_hanbok\\n#Korean_traditional_wedding_clothes"
+        },
+        {
+          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e663c4af410187a668ed6c/previews/61e663c4af410187a668ed76/download/270281584_642244640295233_7075541086581445345_n.jpg",
+          "code": "CYD0xRMvOsI",
+          "id": "[#a63b6]",
+          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
+          "mediaCaption": "한국화 미인도 시리즈 79\\n전통 춤을 추는 여인\\nKorean painting, a beauty 79th\\nA beauty who wears Korean\\ntraditional clothes called Hanbok.\\n#한복그림 #한복 #미인도 #한국화\\n#한국전통의상 #한국화_느낌\\n#한복입은여인 #한국전통옷_한복\\n#illustration #Korean_painting\\n#hanbok #Korean_hanbok #beauty\\n#Korean_clothes #Korean_beauty\\n#hanbok_Korean \\n#Korean_traditional_culture\\n#Korean_traditional_culture_hanbok\\n#Korean_traditional_wedding_clothes"
+        }
+      ],
+      "marginTop": 10
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": null,
+    "FontFamily": "Almarai",
+    "FontHeader": "Alatsi",
+    "MainColor": null,
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "visible": true,
+      "fullscreen": false,
+      "pos": 100,
+      "defaultTab": true,
+      "icon": "house_fill",
+      "label": "Home",
+      "key": "kKGkLDcWuH"
+    },
+    {
+      "layout": "category",
+      "parallaxImageRatio": 1.2,
+      "fontFamily": "CupertinoIcons",
+      "fullscreen": false,
+      "pos": 200,
+      "parallax": false,
+      "defaultTab": false,
+      "icon": "collections_solid",
+      "label": "Category",
+      "categories": [
+        "159694",
+        "33302",
+        "213812",
+        "269",
+        "196658",
+        "9767",
+        "58",
+        "18898",
+        "196103",
+        "2823",
+        "845",
+        "18897",
+        "2085",
+        "195044",
+        "196659",
+        "144801",
+        "168",
+        "71",
+        "212",
+        "172967",
+        "209164",
+        "123",
+        "146573",
+        "531",
+        "8327",
+        "143045"
+      ],
+      "categoryLayout": "sideMenu",
+      "key": "OOfSjIkgbu"
+    },
+    {
+      "auth": false,
+      "defaultTab": false,
+      "icon": "tv_circle_fill",
+      "label": "Live TV",
+      "title": "Live TV",
+      "url": "https://publictv.in/amp.html",
+      "script": "",
+      "layout": "page",
+      "fontFamily": "CupertinoIcons",
+      "fullscreen": true,
+      "pos": 300,
+      "enableBackward": false,
+      "enableForward": false,
+      "key": "UcdSwtNdir"
+    },
+    {
+      "layout": "dynamic",
+      "configs": {
+        "HorizonLayout": [
+          {
+            "rotate": [
+              "Ayodhya Ram Mandir Updates",
+              "Ayodhya Ram Mandir Updates",
+              "Ayodhya Ram Mandir Updates"
+            ],
+            "usePrimaryColor": true,
+            "paddingRight": 15,
+            "title": "",
+            "type": "color",
+            "marginRight": 5,
+            "paddingBottom": 0,
+            "pos": 100,
+            "showSearch": false,
+            "borderInput": false,
+            "paddingTop": 0,
+            "isSafeArea": false,
+            "fontWeight": 800,
+            "height": 44.8,
+            "minWidth": 0,
+            "textColor": "ff000000",
+            "backgroundGradientColor": [],
+            "marginLeft": 0,
+            "layout": "header_text",
+            "textOpacity": 1,
+            "fontSize": 28,
+            "marginBottom": 0,
+            "alignment": "topCenter",
+            "paddingLeft": 5,
+            "marginTop": 15,
+            "font": "Roboto"
+          },
+          {
+            "layout": "card",
+            "image": "",
+            "pos": 200,
+            "cardDesign": "simple",
+            "isSnapping": true,
+            "name": "",
+            "enableAutoSliding": true,
+            "category": 213812,
+            "key": "OKmCPqlVUOYm"
+          },
+          {
+            "parallax": false,
+            "doubleTapToFullScreen": false,
+            "title": {
+              "rotate": [
+                "Ayodhya Ram Mandir Photos",
+                "Ayodhya Ram Mandir Photos",
+                "Ayodhya Ram Mandir Photos"
+              ],
+              "usePrimaryColor": true,
+              "paddingRight": 15,
+              "minWidth": 0,
+              "title": "",
+              "type": "color",
+              "textColor": "ff000000",
+              "backgroundGradientColor": [],
+              "marginLeft": 0,
+              "marginRight": 15,
+              "paddingBottom": 0,
+              "showSearch": false,
+              "borderInput": false,
+              "textOpacity": 1,
+              "fontSize": 28,
+              "marginBottom": 15,
+              "paddingTop": 0,
+              "isSafeArea": false,
+              "alignment": "centerLeft",
+              "paddingLeft": 5,
+              "fontWeight": 800,
+              "marginTop": 15,
+              "height": 45,
+              "font": "Roboto"
+            },
+            "isHorizontal": false,
+            "fit": "fitWidth",
+            "marginRight": null,
+            "isBlur": false,
+            "parallaxImageRatio": 1.2,
+            "pos": 300,
+            "showNumber": false,
+            "design": "swiper",
+            "showBackground": false,
+            "radius": 20,
+            "enableTimeIndicator": true,
+            "key": "xuFbgLrwap",
+            "intervalTime": 3,
+            "padding": 0,
+            "upHeight": 0,
+            "pageIndicatorType": "line",
+            "isSlider": true,
+            "isSoundOn": false,
+            "enableParallax": false,
+            "autoPlayVideo": false,
+            "marginLeft": null,
+            "layout": "bannerImage",
+            "marginBottom": 0,
+            "autoPlay": false,
+            "items": [
+              {
+                "image": "https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg",
+                "bannerWithProduct": false,
+                "showSubcategory": false,
+                "video": "",
+                "defaultShowProduct": false,
+                "products": []
+              },
+              {
+                "image": "https://user-images.githubusercontent.com/1459805/62834034-2899b880-bc71-11e9-956b-64e6d0c35d46.jpg",
+                "bannerWithProduct": false,
+                "showSubcategory": false,
+                "video": "",
+                "defaultShowProduct": false,
+                "products": []
+              },
+              {
+                "image": "https://user-images.githubusercontent.com/1459805/62834031-28012200-bc71-11e9-9980-f090df262343.jpg",
+                "bannerWithProduct": false,
+                "showSubcategory": false,
+                "video": "",
+                "defaultShowProduct": false,
+                "products": []
+              },
+              {
+                "image": "https://inspireui.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F81c15a81-af1c-4098-a5a1-8b8a21f58441%2Fbanner1.png?table=block&id=a8f3b172-92c3-4d05-9890-0c84a4a50488&spaceId=adfc7c52-309f-45b9-8822-60b33369c98c&width=2000&userId=&cache=v2",
+                "bannerWithProduct": false,
+                "showSubcategory": false,
+                "video": "",
+                "defaultShowProduct": false,
+                "products": []
+              }
+            ],
+            "marginTop": 0
+          }
+        ]
+      },
+      "fontFamily": "CupertinoIcons",
+      "visible": true,
+      "fullscreen": false,
+      "pos": 400,
+      "defaultTab": false,
+      "icon": "square_stack_3d_up_fill",
+      "label": "Ram Mandir Updates",
+      "groupLayout": false,
+      "menuLabel": "Ram Mandir Updates",
+      "key": "zkkEZKlTuh"
+    },
+    {
+      "layout": "profile",
+      "settings": [
+        "notifications",
+        "privacy",
+        "about",
+        "wishlist",
+        "darkTheme",
+        "web-VQUrFewvde",
+        "rating"
+      ],
+      "styleItem": "listTile",
+      "fontFamily": "MaterialIcons",
+      "fullscreen": false,
+      "pos": 500,
+      "defaultTab": false,
+      "showBackground": false,
+      "icon": "settings_sharp",
+      "label": "Settings",
+      "subGeneralSetting": {
+        "web-VQUrFewvde": {
+          "enableClose": false,
+          "webViewMode": true,
+          "webUrl": "https://publictv.in/web-stories/",
+          "icon": "news",
+          "enableBackward": true,
+          "title": "Stories",
+          "requiredLogin": false,
+          "iconFontFamily": "CupertinoIcons",
+          "script": "",
+          "enableForward": false
+        }
+      },
+      "key": "fLATLVFcAF"
+    }
+  ],
+  "Drawer": {
+    "filter": 0,
+    "logoConfig": {
+      "height": 107.0,
+      "marginLeft": 3,
+      "marginRight": 0,
+      "marginTop": 12,
+      "marginBottom": 10,
+      "boxFit": "contain",
+      "useMaxWidth": true
+    },
+    "enable": true,
+    "logo": "https://i0.wp.com/publictv.in/wp-content/uploads/2023/04/cropped-fH1g6WnU-1.webp?fit=300%2C193&ssl=1",
+    "subDrawerItem": {
+      "web-DTEsvtCrWy": {
+        "enableClose": false,
+        "webViewMode": true,
+        "webUrl": "english.publictv.in",
+        "icon": "news",
+        "enableBackward": true,
+        "title": "Public TV English",
+        "requiredLogin": false,
+        "iconFontFamily": "CupertinoIcons",
+        "script": "",
+        "enableForward": false
+      },
+      "category-LmQmyUOJHe": {
+        "icon": "news",
+        "category": "213812",
+        "title": "",
+        "iconFontFamily": "CupertinoIcons"
+      },
+      "category-GfkweQykaK": {
+        "category": "2085",
+        "icon": "news",
+        "iconFontFamily": "CupertinoIcons",
+        "title": "internatinal"
+      }
+    },
+    "safeArea": false,
+    "items": [
+      {
+        "type": "home",
+        "show": false
+      },
+      {
+        "type": "categories",
+        "show": false
+      },
+      {
+        "type": "profile",
+        "show": false
+      },
+      {
+        "type": "login",
+        "show": false
+      },
+      {
+        "type": "category",
+        "show": false
+      },
+      {
+        "type": "web-DTEsvtCrWy",
+        "show": true
+      },
+      {
+        "type": "category-LmQmyUOJHe",
+        "show": true
+      },
+      {
+        "type": "category-GfkweQykaK",
+        "show": true
+      }
+    ],
+    "key": "kAKFBDswRu",
+    "zoomConfig": {
+      "style": "rotate",
+      "enableShadow": false,
+      "angle": 0,
+      "slideWidth": 0.65,
+      "slideMargin": 0,
+      "mainScreenScale": 0.3,
+      "borderRadius": 16,
+      "backgroundImage": null
+    }
+  },
+  "AppBar": {},
+  "VerticalLayout": {
+    "showCartIcon": true,
+    "showStockStatus": false,
+    "hideStore": false,
+    "showCartIconColor": false,
+    "vPadding": 2,
+    "showQuantity": false,
+    "hPadding": 6,
+    "hidePrice": false,
+    "showHeart": false,
+    "hMargin": 6,
+    "enableBottomAddToCart": false,
+    "layout": "card",
+    "enableRating": true,
+    "imageRatio": 1.2,
+    "isVertical": true,
+    "vMargin": 0,
+    "hideTitle": false,
+    "borderRadius": 3,
+    "cardDesign": "card",
+    "showCartButton": false,
+    "name": "Latest News",
+    "cartIconRadius": 12,
+    "shuffle": false,
+    "key": "CxwhNLzqid"
+  },
+  "SplashScreen": {
+    "data": "assets/images/splashscreen.png",
+    "type": "animated"
+  }
+}
