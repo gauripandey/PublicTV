@@ -282,7 +282,7 @@
       "isSnapping": false,
       "name": "Latest News",
       "enableAutoSliding": false,
-      "category": 2
+      "category": 87
     },
     {
       "layout": "sliderList",
@@ -308,7 +308,7 @@
       "imageBorder": 6,
       "name": "Cinema News",
       "enableAutoSliding": false,
-      "category": 98,
+      "category": 2,
       "type": "imageOnTheLeft"
     },
     {
@@ -361,10 +361,10 @@
     {
       "layout": "sliderList",
       "imageBorder": 20,
-      "name": "Entertainment",
+      "name": "Hollywood",
       "limit": 20,
       "enableAutoSliding": false,
-      "category": 2,
+      "category": 294,
       "type": "imageOnTheLeft"
     },
     {
